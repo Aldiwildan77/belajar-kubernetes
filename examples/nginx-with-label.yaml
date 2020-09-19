@@ -4,8 +4,8 @@ metadata:
   name: nginx-with-label
   labels:
     team: finance
-    version: 1.4.5
-    environment: production
+    version: 1.4.8
+    environment: development
 spec:
   containers:
     - name: nginx
